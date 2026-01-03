@@ -44,8 +44,6 @@ Key Libraries: Pandas, NumPy, Scikit-learn, and Deep Learning frameworks.
 
 🔗 Quick Links
 
-Colab Notebook: View Implementation (Buraya kendi Colab linkini ekleyebilirsin) 
-+1
-
-
-Kaggle Dataset: Dataset Link
+* **💻 Colab NoteBooks (Google Colab):** [Telekom Customer Churn Prediction Colab NoteBooks](https://colab.research.google.com/drive/1UZly1_jvmYP_55tix05RCSW0eaCs5Z2z?usp=sharing)
+* **📊 Dataset Source:** [Telecom Customer Churn Prediction Dataset - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+* **📊 Dataset Note:** The customer's churn status should be predicted using the data contained in the telekom_customer_churn.csv dataset.
